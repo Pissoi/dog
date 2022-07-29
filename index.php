@@ -1,1 +1,1 @@
-<? php include_once('.\index.hlml');?>
+<? php include_once('.\index.html');?>
